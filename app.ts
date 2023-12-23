@@ -39,4 +39,5 @@ function translatePigLatin(str: string): string | string[] {
   }
   return somma + "ay";
 }
-console.log(translatePigLatin("consonant"))
+console.log(translatePigLatin("consonant"));
+console.log(translatePigLatin("euwygfwf9uhwf9uhw"));
