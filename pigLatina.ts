@@ -41,3 +41,8 @@ function translatePigLatin(str: string): string | string[] {
 }
 console.log(translatePigLatin("consonant"));
 console.log(translatePigLatin("euwygfwf9uhwf9uhw"));
+
+const myReoplace=(str:string,before:string,after:string)=>{
+        
+  return str;
+}
